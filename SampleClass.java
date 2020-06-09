@@ -12,5 +12,8 @@ class SampleClass {
 		public static void m1() {
 			Ststem.out.println("Third method");
 		}
+		public static void m4() {
+			Ststem.out.println("Third method");
+		}
 	}
 }	
