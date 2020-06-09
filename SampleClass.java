@@ -8,5 +8,9 @@ class SampleClass {
 		public static void m3() {
 			Ststem.out.println("Third method");
 		}
+		
+		public static void m1() {
+			Ststem.out.println("Third method");
+		}
 	}
 }	
